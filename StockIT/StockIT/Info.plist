@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SERPAPI_APIKEY</key>
+	<string>c30b442ee7770ecf349034a898d05b3f0dfa84833e39742b79f00fbb2550c301</string>
+	<key>API_BASE_URL</key>
+	<string>https://stockit-production.up.railway.app</string>
+	<key>GEMINI_API_KEY</key>
+	<string>GEMINI_API_KEY</string>
+</dict>
+</plist>
